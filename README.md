@@ -4,7 +4,7 @@ As a personal challenge. I set out to create a system which handles the same way
  NOTE: THIS IS NOT A GAME. JUST A REPLICATED DEMO SYSTEM.
  
  IMAGES AND SOUND FILES ARE OWNED BY APEX LEGENDS - RESPAWN ENTERTAINMENT & Electronic Arts Inc.
- CodeMonkey @ Youtube made the Shield Segment function.
+ CodeMonkey @ Youtube made the Shield Segment function. No need to re-invent the wheel!
 
  ***How does Apex Legends system work?***
 - Players start with no armor or helmet. Only 100 HP.
