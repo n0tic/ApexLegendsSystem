@@ -7,7 +7,7 @@ As a personal challenge. I set out to create a system which handles the same way
 
  ***How does Apex Legends system work?***
 - Players start with no armor or helmet. Only 100 HP.
-- Players can find and pick up gear and items.
+- Players can equip gear and use items.
 - Players stats will be affected by the items and gear.
   - White grade armor would grant 2 bars and a blue grade armor would grant 3 bars of shields.
     - Each bar is 25 armor. Gold grade armor has a bonus stats and increase the usage speed of items by 25%.
