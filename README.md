@@ -9,7 +9,7 @@ As a personal challenge. I set out to create a system which handles the same way
 - Players start with no armor or helmet. Only 100 HP.
 - Players can equip gear and use items.
 - Players stats will be affected by the items and gear.
-  - White grade armor would grant 2 bars and a blue grade armor would grant 3 bars of shields.
+  - White armor = 2 bars, blue armor = 3 bars, purple & gold armor = 4 bars of shields.
     - Each bar is 25 armor. Gold grade armor has a bonus stats and increase the usage speed of items by 25%.
 - If a player gets shot and has no armor the damage be directly to the health.
 - If a player gets shot and has armor the damage would be taken directly from the shield.
