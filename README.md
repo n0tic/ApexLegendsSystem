@@ -24,5 +24,5 @@ As a personal challenge. I set out to create a system which handles the same way
  You can use various items that is in the game to recover your player.
  The gold tier armor gives a 25% decrease in item usage time.
 
-![](https://i.gyazo.com/67efeed87c97a955704730018d8795be.jpg)
+![](https://i.gyazo.com/67efeed87c97a955704730018d8795be.jpg)   
 You can find a WebGL build here: https://bytevaultstudio.se/projects/unity/ApexLegendsSystem/
